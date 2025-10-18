@@ -1,0 +1,37 @@
+========== Backup Run Started: 2025-10-18 21:05:12 ==========
+
+[COMP0001 - ABC Traders]
+  DATA copied: Success
+  Latest Backup: 3 files collected
+  Latest File Date: 2025-09-28 16:45
+  ZIP created: COMP0001_ABC Traders_2025-10-18_21-05-12.zip
+
+[COMP0002 - Bright Textiles]
+  DATA copied: Success
+  Latest Backup: Failed
+  ZIP created: COMP0002_Bright Textiles_2025-10-18_21-05-13.zip
+  REMARK/NOTE: Backup folder missing;
+
+[COMP0003 - Zenith Enterprises]
+  DATA copied: Success
+  Latest Backup: 4 files collected
+  Latest File Date: 2025-10-12 09:18
+  ZIP created: COMP0003_Zenith Enterprises_2025-10-18_21-05-14.zip
+
+Summary (per company):
+
++--------------------------------------+--------------+--------------------+------------------+--------------+-------------------------+
+| Company                              | DATA Copy    | Latest Backup      | Latest File Date | ZIP Created  | Remarks                 |
++--------------------------------------+--------------+--------------------+------------------+--------------+-------------------------+
+| COMP0001 - ABC Traders               | Success      | Success (3 files)  | 2025-09-28 16:45 | Success      |                         |
+| COMP0002 - Bright Textiles           | Success      | Failed             | N/A              | Success      | Backup folder missing;  |
+| COMP0003 - Zenith Enterprises        | Success      | Success (4 files)  | 2025-10-12 09:18 | Success      |                         |
++--------------------------------------+--------------+--------------------+------------------+--------------+-------------------------+
+
+Totals:
+  Total Companies: 3
+  DATA copy success: 3 / Failed: 0
+  Latest Backup success: 2 / Failed: 1
+  ZIP creation success: 3 / Failed: 0
+
+========== Backup Run Finished: 2025-10-18 21:05:15 ==========
